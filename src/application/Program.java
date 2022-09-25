@@ -55,6 +55,8 @@ public class Program {
 		System.out.print("Delete completd");
 		
 		sc.close();
+		
+		
 	}
 
 }
